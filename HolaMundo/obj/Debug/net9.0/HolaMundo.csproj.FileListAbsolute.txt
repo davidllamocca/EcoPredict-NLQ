@@ -1,0 +1,15 @@
+C:\taller de proyectos\EcoPredict-NLQ\HolaMundo\bin\Debug\net9.0\HolaMundo.exe
+C:\taller de proyectos\EcoPredict-NLQ\HolaMundo\bin\Debug\net9.0\HolaMundo.deps.json
+C:\taller de proyectos\EcoPredict-NLQ\HolaMundo\bin\Debug\net9.0\HolaMundo.runtimeconfig.json
+C:\taller de proyectos\EcoPredict-NLQ\HolaMundo\bin\Debug\net9.0\HolaMundo.dll
+C:\taller de proyectos\EcoPredict-NLQ\HolaMundo\bin\Debug\net9.0\HolaMundo.pdb
+C:\taller de proyectos\EcoPredict-NLQ\HolaMundo\obj\Debug\net9.0\HolaMundo.GeneratedMSBuildEditorConfig.editorconfig
+C:\taller de proyectos\EcoPredict-NLQ\HolaMundo\obj\Debug\net9.0\HolaMundo.AssemblyInfoInputs.cache
+C:\taller de proyectos\EcoPredict-NLQ\HolaMundo\obj\Debug\net9.0\HolaMundo.AssemblyInfo.cs
+C:\taller de proyectos\EcoPredict-NLQ\HolaMundo\obj\Debug\net9.0\HolaMundo.csproj.CoreCompileInputs.cache
+C:\taller de proyectos\EcoPredict-NLQ\HolaMundo\obj\Debug\net9.0\HolaMundo.sourcelink.json
+C:\taller de proyectos\EcoPredict-NLQ\HolaMundo\obj\Debug\net9.0\HolaMundo.dll
+C:\taller de proyectos\EcoPredict-NLQ\HolaMundo\obj\Debug\net9.0\refint\HolaMundo.dll
+C:\taller de proyectos\EcoPredict-NLQ\HolaMundo\obj\Debug\net9.0\HolaMundo.pdb
+C:\taller de proyectos\EcoPredict-NLQ\HolaMundo\obj\Debug\net9.0\HolaMundo.genruntimeconfig.cache
+C:\taller de proyectos\EcoPredict-NLQ\HolaMundo\obj\Debug\net9.0\ref\HolaMundo.dll
